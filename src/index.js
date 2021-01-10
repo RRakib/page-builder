@@ -3,10 +3,13 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import {IFrame} from "rfc-iframe";
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    {/*<IFrame styles={{width: "100%"}}>*/}
+      <App />
+    {/*</IFrame>*/}
   </React.StrictMode>,
   document.getElementById('root')
 );

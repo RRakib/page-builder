@@ -9897,6 +9897,11 @@ rework@1.0.1:
     convert-source-map "^0.3.3"
     css "^2.0.0"
 
+rfc-iframe@^1.0.6:
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/rfc-iframe/-/rfc-iframe-1.0.6.tgz#cda37c411f04fd76e52b5a926163cf02e91f948a"
+  integrity sha512-UScIXQFRVPc9lJ9X584DCtuTyVIsKkSdjEKBHY7a3aG+4lOs6HULEDvG0tJYAc16fWWp0UaxNSmfyZR7o/y0Hw==
+
 rgb-regex@^1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/rgb-regex/-/rgb-regex-1.0.1.tgz#c0e0d6882df0e23be254a475e8edd41915feaeb1"
